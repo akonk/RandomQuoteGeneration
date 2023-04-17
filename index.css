@@ -1,0 +1,30 @@
+#body {
+  background-color: antiquewhite;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border: 5px solid;
+  border-color: crimson;
+  font-size: 14px;
+}
+
+h1 {
+  margin-top: 50px;
+
+  margin-left: 350px;
+}
+
+button {
+  margin-top: 50px;
+  margin-left: 400px;
+  border: 2px;
+  background-color: burlywood;
+  border-color: crimson;
+  padding: 10px;
+  border-radius: 0%;
+  font-style: bold;
+  font-size: large;
+}
+
+#dataFile {
+  margin-left: 50px;
+}
